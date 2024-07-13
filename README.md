@@ -1,7 +1,7 @@
 # ADK_FVQSAM-Source: Automatic diagnosis of keratitis by integrating feature vector quantization and self-attention mechanism
 # create time: 2024.7.13
 
-# Introduction£º
+# Introduction
 This repository contains the source code for the Automatic Diagnosis of Keratitis using Feature Vector Quantization and Self-Attention Mechanism (ADK_FVQSAM). 
 This method effectively improves the accuracy of automatic keratitis diagnosis on low-quality slit-lamp images by integrating feature vector quantization and self-attention mechanisms.
 
